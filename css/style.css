@@ -522,6 +522,10 @@ footer p{
         border: none;
         background: unset;
     }
+    .HTBMedia img:nth-child(2){
+        display: none;
+        pointer-events: none;
+    }
     footer p{
         font-size: 18px;
     }
